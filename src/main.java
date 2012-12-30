@@ -25,6 +25,8 @@ case "euler3":{ Problem3 project = new Problem3(); project.largestPrimeFactor(60
 case "euler4":{ Problem4 project = new Problem4(); project.run(); break; }
 case "euler5":{ Problem5 project = new Problem5(); project.run(); break; }
 case "euler6":{ Problem6 project = new Problem6(); project.run(); break; }
+case "euler7":{ Problem7 project = new Problem7(); project.run(); break; }
+case "euler8":{ Problem8 project = new Problem8(); project.run(); break; }
 /************************************************************************************/
 /***End Projects*********************************************************************/
 /************************************************************************************/
